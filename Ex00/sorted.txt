@@ -1,0 +1,11 @@
+./.DS_Store
+./command
+./next.config.js
+./package-lock.json
+./package.json
+./sorted.txt
+.
+./node_modules
+./pages
+./public
+./styles
