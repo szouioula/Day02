@@ -1,0 +1,2 @@
+touch {1..20}
+seq 2 2 20 | xargs rm -r
