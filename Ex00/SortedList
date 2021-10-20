@@ -1,1 +1,1 @@
-find . -type f | wc -l && find . -type d | wc -l && find . -type f |sort | tee sorted.txt && find . -type d |sort | tee -a sorted.txt
+ls | wc -l && ls | tee sorted.txt
